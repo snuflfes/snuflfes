@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://snuflfes.github.io//github/blog/2014/08/01/fisrt-article/</loc>
+    <lastmod>2014-08-01T11:15:30+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://snuflfes.github.io//github/blog/2014/07/27/title/</loc>
+    <lastmod>2014-07-27T20:13:05+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://snuflfes.github.io//github/blog/archives/</loc>
+    <lastmod>2014-08-01T11:33:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://snuflfes.github.io//github/</loc>
+    <lastmod>2014-08-01T11:33:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+</urlset>
